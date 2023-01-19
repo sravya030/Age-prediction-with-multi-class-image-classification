@@ -7,6 +7,7 @@ This study began using and processing the face age dataset taken from Kaggle. Th
 the database were divided in seven classes, each one for an age range. the proposed work 
 implemented traditional ML algorithms such as random forest classifier and SVC.By learning representations through the use of deep-convolutional neural networks (CNN), a significant increase in performance can be obtained on these tasks.
 
+
 ![image](https://user-images.githubusercontent.com/75250067/213371785-6e8c71d0-f007-4eca-87cd-fca34dc6414e.png)
 
 
